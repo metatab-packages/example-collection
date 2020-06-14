@@ -1,0 +1,18 @@
+[submodule "example.com-versions-integer"]
+	path = example.com-versions-integer
+	url = https://github.com/metatab-packages/example.com-versions-integer.git
+[submodule "example.com-versions-semver"]
+	path = example.com-versions-semver
+	url = https://github.com/metatab-packages/example.com-versions-semver.git
+[submodule "example.com-notebook"]
+	path = example.com-notebook
+	url = https://github.com/metatab-packages/example.com-notebook.git
+[submodule "example.com-test_variety-2017-us"]
+	path = example.com-test_variety-2017-us
+	url = https://github.com/metatab-packages/example.com-test_variety-2017-us.git
+[submodule "example.com-lines_format-2017-us"]
+	path = example.com-lines_format-2017-us
+	url = https://github.com/metatab-packages/example.com-lines_format-2017-us.git
+[submodule "example_data_package-2017-us"]
+	path = example_data_package-2017-us
+	url = https://github.com/metatab-packages/example_data_package-2017-us.git
