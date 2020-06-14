@@ -13,7 +13,7 @@ def foreach_package(c):
     """Print the package url for each sub directory"""
     
     for d in foreach_metapack_subdir():
-        c.run('mp info -p')
+        c.run("mp update -f")
         
 ns.add_task(foreach_package)
 
