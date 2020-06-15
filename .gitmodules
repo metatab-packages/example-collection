@@ -16,3 +16,6 @@
 [submodule "example_data_package-2017-us"]
 	path = example_data_package-2017-us
 	url = https://github.com/metatab-packages/example_data_package-2017-us.git
+[submodule "example.com-ipynb_format-2017-us"]
+	path = example.com-ipynb_format-2017-us
+	url = https://github.com/metatab-packages/example.com-ipynb_format-2017-us.git
