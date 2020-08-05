@@ -19,3 +19,9 @@
 [submodule "example.com-ipynb_format-2017-us"]
 	path = example.com-ipynb_format-2017-us
 	url = https://github.com/metatab-packages/example.com-ipynb_format-2017-us.git
+[submodule "example.com-errors"]
+	path = example.com-errors
+	url = https://github.com/metatab-packages/example.com-errors.git
+[submodule "example.com-simple"]
+	path = example.com-simple
+	url = https://github.com/metatab-packages/example.com-simple.git
